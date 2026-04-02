@@ -1,10 +1,10 @@
 class GtDrain < Formula
   desc "Merge a Graphite stack bottom-up, one PR at a time"
   homepage "https://github.com/john-farina/gt-tools"
-  version "1.0.0"
+  version "1.1.0"
 
-  url "https://github.com/john-farina/gt-tools/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "325b2733d8316f5c1760a8d6ba0c65bc14a06e9b7c3bbee468f4e854fb7aabe8"
+  url "https://github.com/john-farina/gt-tools/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "7a9b6b7c367e1797765e964398bdb62a9c7b72f58b890cdb615969f4a430bb89"
 
   license "MIT"
 
